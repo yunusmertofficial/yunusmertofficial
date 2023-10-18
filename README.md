@@ -1,4 +1,4 @@
- [![MasterHead]([https://www.freepik.com/free-vector/development-operations-banner-devops-concept_8251795.htm#query=fullstack%20web%20develeopment%20banner&position=36&from_view=search&track=ais](https://www.freepik.com/free-vector/back-end-developer-typographic-header-software-development-process-website-interface-design-improvement-programming-coding-it-profession-isolated-flat-vector-illustration_25968169.htm#query=backenddevelopment%20banner&position=42&from_view=search&track=ais))
+[![MasterHead](https://img.freepik.com/free-vector/back-end-developer-typographic-header-software-development-process-website-interface-design-improvement-programming-coding-it-profession-isolated-flat-vector-illustration_613284-521.jpg?w=1800&t=st=1697653822~exp=1697654422~hmac=fac36553aba63ee797315a11f09d5a773f36a1208392c6059cf5b37e27b275c3)](https://www.example.com/hedef_link)
 <h1 align="center">Hi 👋, I'm Yunus Emre Mert</h1>
 <h3 align="center">A passionate full stack developer from Türkiye</h3>
 
